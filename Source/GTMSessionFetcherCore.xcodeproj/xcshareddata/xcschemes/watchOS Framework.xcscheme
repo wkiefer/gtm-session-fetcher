@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4A872021DA3EACE00D69E09"
-               BuildableName = "GTMSessionFetchertvOS.framework"
-               BlueprintName = "GTMSessionFetchertvOS"
-               ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4A8721C1DA3EDE700D69E09"
-               BuildableName = "FetchertvOSTests.xctest"
-               BlueprintName = "FetchertvOSTests"
+               BlueprintIdentifier = "F4B18F6A1F0EC6C200E55018"
+               BuildableName = "GTMSessionFetcherwatchOS.framework"
+               BlueprintName = "GTMSessionFetcherwatchOS"
                ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -41,35 +27,9 @@
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       language = ""
-      shouldUseLaunchSchemeArgsEnv = "NO">
+      shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F4A8721C1DA3EDE700D69E09"
-               BuildableName = "FetchertvOSTests.xctest"
-               BlueprintName = "FetchertvOSTests"
-               ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4A872021DA3EACE00D69E09"
-            BuildableName = "GTMSessionFetchertvOS.framework"
-            BlueprintName = "GTMSessionFetchertvOS"
-            ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OS_ACTIVITY_MODE"
-            value = "disable"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -87,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4A872021DA3EACE00D69E09"
-            BuildableName = "GTMSessionFetchertvOS.framework"
-            BlueprintName = "GTMSessionFetchertvOS"
+            BlueprintIdentifier = "F4B18F6A1F0EC6C200E55018"
+            BuildableName = "GTMSessionFetcherwatchOS.framework"
+            BlueprintName = "GTMSessionFetcherwatchOS"
             ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -105,9 +65,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F4A872021DA3EACE00D69E09"
-            BuildableName = "GTMSessionFetchertvOS.framework"
-            BlueprintName = "GTMSessionFetchertvOS"
+            BlueprintIdentifier = "F4B18F6A1F0EC6C200E55018"
+            BuildableName = "GTMSessionFetcherwatchOS.framework"
+            BlueprintName = "GTMSessionFetcherwatchOS"
             ReferencedContainer = "container:GTMSessionFetcherCore.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
