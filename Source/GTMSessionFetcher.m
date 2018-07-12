@@ -4533,7 +4533,8 @@ NSString *GTMFetcherApplicationIdentifier(NSBundle * GTM_NULLABLE_TYPE bundle) {
       functionNamesCounter = [NSCountedSet set];
       counters[_objectKey] = functionNamesCounter;
     }
-    [functionNamesCounter addObject:@(functionName)];
+    NSString *nameString = @(functionName);
+    [functionNamesCounter addObject:nameString];
   }
   return self;
 }
